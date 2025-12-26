@@ -1,16 +1,56 @@
-# React + Vite
+# 🤖 React Chat Bot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple chatbot application built using React JS that performs three basic interactive functions: 
+- Displaying today’s date 
+- Flipping a coin (heads or tails) 
+- Rolling a die 
+The project demonstrates fundamental React concepts and event-driven UI behavior.
+#### 🔰 Overview
+- This React Chat Bot is designed to showcase basic chatbot logic and user interaction using a component-based architecture. Users can interact with the bot through predefined commands, and the bot responds instantly with the requested result.
+  
+## Live Website
+#### 🚀Experience Website in Live!
+🔗Live Demo :
+[Website Live Link](https://bhuvan-anupoju.github.io/React-Chatbot/)
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📅 Displays today’s date
 
-## React Compiler
+- 🪙 Simulates a coin toss (Heads/Tails)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎲 Simulates a dice roll (1–6)
 
-## Expanding the ESLint configuration
+- ⚡ Instant responses
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🧩 Simple and beginner-friendly UI
+## 🛠️ Tech Stack
+
+- React JS – Frontend framework
+
+- JavaScript (ES6+) – Logic handling
+
+- CSS – Styling
+
+
+## ⚙️ How It Works
+
+#### The user selects or enters a command.
+
+#### The chatbot processes the request.
+
+#### The bot returns:
+
+- Today’s date
+
+- A random heads/tails result
+
+- A random dice value
+## 📄 Purpose
+
+This project was created to practice React fundamentals such as components, state management, conditional rendering, and handling user interactions.
+## 👦 About Me
+Hi, I’m Bhuvan, a passionate React developer with a strong foundation in modern JavaScript and component-based architecture. I enjoy building responsive, scalable, and user-friendly web applications using React. I’m always eager to learn new technologies and continuously improve my skills to create meaningful and efficient digital experiences.
+## 🔗 Contact me on
+- [LinkedIn](https://www.linkedin.com/in/bhuvan-anupoju/)
+- [My Portfolio](https://bhuvan-anupoju.github.io/Bhuvan.dev/)
