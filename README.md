@@ -4,6 +4,7 @@ A simple chatbot application built using React JS that performs three basic inte
 - Displaying today’s date 
 - Flipping a coin (heads or tails) 
 - Rolling a die 
+
 The project demonstrates fundamental React concepts and event-driven UI behavior.
 #### 🔰 Overview
 - This React Chat Bot is designed to showcase basic chatbot logic and user interaction using a component-based architecture. Users can interact with the bot through predefined commands, and the bot responds instantly with the requested result.
